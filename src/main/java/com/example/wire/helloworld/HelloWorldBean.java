@@ -1,4 +1,4 @@
-package com.example.wire;
+package com.example.wire.helloworld;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
